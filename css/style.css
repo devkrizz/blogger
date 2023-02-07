@@ -132,10 +132,10 @@ p{
 
 .nav .nav-items .nav-link{
     padding: 1.6rem 1rem;
-    font-size: 1.1rem;
+    font-size: 1.6rem;
     position: relative;
     font-family:var(--Abel);
-    font-size: 1.1rem;
+    
 }
 
 .nav .nav-items .nav-link:hover{
